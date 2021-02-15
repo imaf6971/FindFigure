@@ -29,5 +29,7 @@ public class Main {
         for (int i = 0; i < 2; i++) {
             lineList.add(i + 4, new Line(dotList.get(i), dotList.get(i + 3)));
         }
+
+        System.out.println("Hello again");
     }
 }
