@@ -32,6 +32,5 @@ public class Main {
 
         Figure newFigure = new Figure(lineList.get(0), lineList.get(1), lineList.get(2), lineList.get(3), lineList.get(4), lineList.get(5));
         System.out.println("Your figure type is: " + newFigure.getFigureType());
-
     }
 }
